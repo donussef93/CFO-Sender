@@ -1,0 +1,13 @@
+Subject: Request to update payment information 
+
+Dear {{FirstName}},
+
+I hope this message finds you well. I am writing to kindly request a change in the payment method I currently use to receive my salary. Could you please guide me through the process for updating my payment details and let me know what information or documents you may need from my side?
+
+I appreciate your assistance and look forward to hearing from you.
+
+Thank you for your time and support.
+
+Best regards,
+{{fullName}}
+{{position}}

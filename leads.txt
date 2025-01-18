@@ -1,0 +1,18 @@
+Receiver_name John Doe
+Receiver_email allbydeuce@gmail.com
+Sender_name Summer
+Sender_from_name Summer Such
+Position Marketing Manager
+====================================
+Receiver_name John Doe
+Receiver_email allbydeuce@gmail.com
+Sender_name Summer
+Sender_from_name Summer Such
+Position Marketing Manager
+====================================
+Receiver_name John Doe
+Receiver_email allbydeuce@gmail.com
+Sender_name Summer
+Sender_from_name Summer Such
+Position Marketing Manager
+====================================
